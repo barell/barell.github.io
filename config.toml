@@ -1,0 +1,4 @@
+baseURL = "https://barell.github.io/"
+languageCode = "en-gb"
+title = "barell's notes"
+theme = "ananke"
