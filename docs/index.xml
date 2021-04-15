@@ -8,11 +8,11 @@
     <language>en-gb</language>
     <lastBuildDate>Tue, 13 Apr 2021 22:40:27 +0200</lastBuildDate><atom:link href="https://barell.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing Hugo</title>
-      <link>https://barell.github.io/posts/installing-hugo/</link>
+      <title>Publishing Hugo on Github Pages</title>
+      <link>https://barell.github.io/posts/publishing-hugo-on-github-pages/</link>
       <pubDate>Tue, 13 Apr 2021 22:40:27 +0200</pubDate>
       
-      <guid>https://barell.github.io/posts/installing-hugo/</guid>
+      <guid>https://barell.github.io/posts/publishing-hugo-on-github-pages/</guid>
       <description>Own scripts, Wordpress, Jekyll&amp;hellip; Hugo! I had this idea of having my own blog for many years. I always wanted to write about programming - something I do everyday for many years now.
 My first attempt was to create a blog using PHP/HTML/CSS/JS from scratch. But I quickly realised this is a lot of work. I wanted my blog to be responsive and easy to maintain.
 My second attempt was installing Wordpress on some basic hosting platform with custom domain.</description>
