@@ -68,7 +68,7 @@ I assume that you already have Github account with a created empty repository ca
 In your blog directory initialize git and push it to your Github:
 
     $ git init
-    $ git remote add origin git@github.com:barell/barell.github.io.git
+    $ git remote add origin git@github.com:yourname/yourname.github.io.git
     $ git add . 
     $ git commit -m "Publish blog"
     $ git push -u origin master
